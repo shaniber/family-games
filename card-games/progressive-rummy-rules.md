@@ -52,11 +52,13 @@ You can add on additional steps if you want to extend the game.
 | 9         | 3 runs of 3             | 
 | 10        | 3 runs of 4             | 
 
+And so on.  
+
 ## Glossary
 
 <dl>
-	<dt>*Set*</dt>
+	<dt>Set</dt>
 	<dd>A set is at least 3 cards of a kind; i.e. 3 sixes, four aces.</dd>
-	<dt>*Run*</dt>
+	<dt>Run</dt>
 	<dd>A run is at least 3 consecutive cards in same suit; i.e. 4-5-6 of spades, J-Q-K-A of hearts.</dd>
 </dl>
