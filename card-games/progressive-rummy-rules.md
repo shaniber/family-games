@@ -22,13 +22,13 @@ Winner is the player with the lowest score of those who complete Step 7.
 
 ## Point Count
 
-| Card Face | Point Value |
-| --------- | ----------- |
-| 3 - 6     | 5 points    | 
-| 7 - King  | 10 points   |
-| Aces      | 15 points   |
-| Deuces    | 20 points   |
-| Jokers    | 50 points   |
+| Card Face | Point Value |                |
+| --------- | ----------- | -------------- |
+| 3 - 6     | 5 points    | 🂣 🂤 🂥 🂦       | 
+| 7 - King  | 10 points   | 🂧 🂨 🂩 🂪 🂫 🂭 🂮 | 
+| Aces      | 15 points   | 🂡              |
+| Dueces    | 20 points   | 🂢              |
+| Jokers    | 50 points   | 🃟              |
 
 ## Steps
 
