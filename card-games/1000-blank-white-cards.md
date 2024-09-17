@@ -42,7 +42,7 @@ If you cannot play a card (meaning you have no blanks, and none of the cards in 
 Total up the point value of the cards in front of you, and add the point values of any cards played to the center of the table.  This is your score (and yes, it can be a negative number).  The player with the highest score wins!  Woo!
 
 
-# Epilogue:
+## Epilogue:
 
 After the game is over, you will have a large pile of cards.  The next time you play, you'll be using a random selection of cards from this pile, so naturally you'll be wanting to whittle it down a bit so that only the best cards get re-used.  This is what the Epilogue phase of the game is for.  
 
