@@ -61,7 +61,7 @@ Here's a sample card, with descriptions of its various parts.
 <table>
   <tr>
     <td rowspan="3">
-      !<img src="../images/1000bwd-eatin.jpg" alt="Scan of a sample, hand-drawn card for the game 1000 Blank White Cards. Contains a three-eyed, two tentacled alien with webbed feet and a squat, round body, saying 'Gleep!'. A fork hovers above it, and a square-ish pepper shaker is off to the right. The title reads 'Thems Good Eatin!', and the card action is '+300 pts. Draw an extra card.'"></td> 
+      <img src="../images/1000bwc-eatin.jpg" alt="Scan of a sample, hand-drawn card for the game 1000 Blank White Cards. Contains a three-eyed, two tentacled alien with webbed feet and a squat, round body, saying 'Gleep!'. A fork hovers above it, and a square-ish pepper shaker is off to the right. The title reads 'Thems Good Eatin!', and the card action is '+300 pts. Draw an extra card.'"></td> 
     </td>
     <td>First, a title.  This is what the card is called.  Yep.</td>
   </tr>
