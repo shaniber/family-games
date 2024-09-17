@@ -73,5 +73,7 @@ Here's a sample card, with descriptions of its various parts.
   </tr>
 </table>
 
+Point values normally range from 100 to 1000, in 100-point increments, and can be either positive or negative.  Other instructions can be pretty much anything: normal card game instructions (Lose a Turn, Draw Another Card, etc.), unusual instructions (Dance Like a Chicken On Fire), or something totally bizarre (Eat This Card For Absolutely No Psychedelic Effect).  
 
+And that's really all you need to know.  Run with it!  
 
