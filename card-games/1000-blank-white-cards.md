@@ -57,5 +57,20 @@ Okay, now for the important bit, the bit you've all been waiting for: How To Cre
 
 Here's a sample card, with descriptions of its various parts.  
 
-![Scan of a sample, hand-drawn card for the game 1000 Blank White Cards. Contains a three-eyed, two tentacled alien with webbed feet and a squat, round body, saying "Gleep!". A fork hovers above it, and a square-ish pepper shaker is off to the right. The title reads "Thems Good Eatin!", and the card action is "+300 pts. Draw an extra card."](../images/1000bwc-eatin.jpg)
+<table>
+  <tr>
+    <td rowspan="3">
+        ![Scan of a sample, hand-drawn card for the game 1000 Blank White Cards. Contains a three-eyed, two tentacled alien with webbed feet and a squat, round body, saying "Gleep!". A fork hovers above it, and a square-ish pepper shaker is off to the right. The title reads "Thems Good Eatin!", and the card action is "+300 pts. Draw an extra card."](../images/1000bwc-eatin.jpg)
+    </td>
+    <td>First, a title.  This is what the card is called.  Yep.</td>
+  </tr>
+  <tr>
+    <td>Then, a picture of some sort.  Artistic ability is not required; if you can do a stick-man, you're ready to go.  (During one game, we had so many stick-men on the table, I was forced to implement a card called "Stick-Figure Genocide" to get rid of them all.)  If you play a lot, you will discover that your artistic skills gradually improve.  Well, your cartooning skills, anyway.</td>
+  </tr>
+  <tr>
+    <td>And finally, a description of what the card does.  This can be a point value, some sort of instruction, or both, or neither.</td>
+  </tr>
+</table>
+
+
 
