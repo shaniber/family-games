@@ -57,7 +57,6 @@ Okay, now for the important bit, the bit you've all been waiting for: How To Cre
 
 Here's a sample card, with descriptions of its various parts.  
 
-![Scan of a sample, hand-drawn card for the game 1000 Blank White Cards. Contains a three-eyed, two tentacled alien with webbed feet and a squat, round body, saying "Gleep!". A fork hovers above it, and a square-ish pepper shaker is off to the right. The title reads "Thems Good Eatin!", and the card action is "+300 pts. Draw an extra card."](../images/1000bwc-eatin.jpg)
 <table>
   <tr>
     <td width="238" rowspan="3">
